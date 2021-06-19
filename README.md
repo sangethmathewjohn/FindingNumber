@@ -2,6 +2,7 @@
 
 This is a small program that ask to find a number between 1 to 100 which is selected by the program
 
+
 ### Program
 
       import random
@@ -42,6 +43,7 @@ This is a small program that ask to find a number between 1 to 100 which is sele
 
             
 ### Output
+
 
       Welcome to the number Guesisng Game!
       I'm thinking of a number between 1 and 100
